@@ -12,31 +12,22 @@ import ReactConfetti from 'react-confetti';
 
 export function Tasks ({content, id, isConclude, userMarkTaskAsComplete, numberOfTasksComplete, setNumberOfTasksComplete, tasks, setTasks}) {
   
-    const [stateOfDeleteOne, setStateOfDeleteOne] = useState(false)
+  
 
+    function userDeleteTask(id, isConclude) {
 
-    function userDeleteTask(id) {
-
-    const tasksWithoutDeleteOne = tasks.filter( remove => {
-        return remove.id !== id;
-
+        const tasksWithoutDeleteOne = tasks.filter( remove => {
+            return remove.id !== id;
 })
-    setTasks(tasksWithoutDeleteOne);
-    
-    setStateOfDeleteOne(stateOfDeleteOne)  
-    setNumberOfTasksComplete(stateOfDeleteOne === true ? numberOfTasksComplete -1 : numberOfTasksComplete + 0 )        
+        setTasks(tasksWithoutDeleteOne);
+        setNumberOfTasksComplete( isConclude === true ? numberOfTasksComplete -1 : numberOfTasksComplete + 0 )        
 }
-   
 
     function markTaskAsCompleted() {
     
         userMarkTaskAsComplete();
-
-        setStateOfDeleteOne(!isConclude)
-
         setNumberOfTasksComplete(!isConclude === true ? numberOfTasksComplete + 1 : numberOfTasksComplete - 1);      
 }
-
 
 return (   
 
@@ -58,7 +49,7 @@ return (
                     </span> 
                         
                     <div>
-                    <Trash size={22}  className={styles.simboldelete} onClick={() => userDeleteTask(id)}/>
+                    <Trash size={22}  className={styles.simboldelete} onClick={() => userDeleteTask(id, isConclude)}/>
                     </div>
                 </div>
             </div> 

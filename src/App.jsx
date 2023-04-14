@@ -20,7 +20,7 @@ import {useState, useEffect} from 'react';
 export function App() {
 
   const [tasks, setTasks] = useState (() => {
-    const savedTasksCreated = localStorage.getItem('tasksCreated');
+    const savedTasksCreated = localStorage.getItem('Tasks');
     const initialValue = JSON.parse(savedTasksCreated);
     return initialValue || [];
 })
@@ -87,7 +87,7 @@ export function App() {
 }
 
   useEffect (() => {
-    localStorage.setItem('tasksCreated', JSON.stringify(tasks))
+    localStorage.setItem('Tasks', JSON.stringify(tasks))
   },[tasks])
 
   
