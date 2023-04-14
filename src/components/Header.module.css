@@ -1,0 +1,36 @@
+.header {
+    background-color: var(--gray-700);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12.5rem;
+    padding: 4.5rem 0;
+
+   
+}
+
+.logo {
+    height: 2.25rem;
+    
+}
+
+.title {
+    height: 3rem;
+    width: 5.75rem;
+    padding-left: 0.75rem;
+}
+
+
+
+@media (max-width:600px) {
+    .logo {
+        height: 1.8rem;
+        
+    }
+    .title {
+        height: 2rem;
+        width: 5rem;
+        padding-left: 0.70rem;
+    }
+    
+}

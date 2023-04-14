@@ -1,0 +1,339 @@
+.newtask {
+    max-width: 46rem;
+    margin: 0 auto;
+    display: flex;
+    margin-top: -1.6rem;
+    justify-content: center;
+
+}
+
+.textplace{
+    box-sizing: content-box;
+    background-color: var(--gray-500);
+    border: 0.125rem solid var(--gray-700);
+    color: var(--gray-200);
+    border-radius: 8px;
+    width: 46rem;
+    height: 3.370rem ;
+    box-shadow: black 0.1em 0.1em 0.5em;
+    resize: none;
+    padding: 0px 26px;
+}
+
+
+.buttonsubmit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--blue-200);
+    border: 0.125rem solid var(--gray-700);
+    color: var(--white-200);
+    border-radius: 8px;
+    width: 5.625rem;
+    height: 3.370rem ;
+    box-shadow: var(--black) 0.1em 0.1em 0.2em;
+    margin-left: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+
+
+
+.buttonsubmit:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 2px var(--blue-200);
+}
+.simbolplus {
+    display: flex;
+    align-content: center; 
+    width: 1rem;
+    height:  auto;
+    padding-left: 0.25rem;
+}
+
+
+.buttonsubmit:not(:disabled):hover {
+    background-color: var(--blue-100);
+    cursor: pointer;
+}
+
+.textplace:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 2px var(--purple-200);
+}
+
+.buttonsubmit:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+
+    
+}
+
+
+
+
+
+
+@media (max-width: 800px) {
+    .newtask {
+        max-width: 30rem;
+        margin: 0 auto; 
+        margin-top: -1.6rem;
+    }
+    .textplace, .buttonsubmit {
+        height: 3.000rem;
+        font-size: 0.700rem;
+    }
+    .buttonsubmit{
+        font-size: 0.650rem;
+        line-height: 1.5;
+        align-items: center;
+        width: 150px;
+       
+    }
+    .simbolplus {
+        width: 1rem;
+        height:  auto;
+        padding-left: 0.40rem;
+       
+     }
+     .textplace {
+        padding: 0px 14px;
+     }
+     
+}
+
+@media (max-width: 600px) {
+    .newtask {
+        max-width: 15rem;
+        margin: 0 auto; 
+        margin-top: -1rem;
+    }
+    .textplace {
+        height: 2.000rem;
+        font-size: 0.500rem;
+        
+    }
+    .buttonsubmit{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 0.500rem;
+        align-items: center;
+        width: 140px;
+        height: 2.15rem;
+        
+    }
+    .simbolplus {
+        width: 0.7rem;
+        height:  auto;
+        padding-left: 0.20rem;
+      
+    }
+    .textplace {
+        padding: 0px 10px;
+     }
+     
+}
+
+
+@media (max-width: 280px) {
+    .newtask {
+        max-width: 7.5rem;
+        margin: 0 auto; 
+        margin-top: -0.9rem;
+    }
+    .textplace {
+        height: 1.500rem;
+        font-size: 0.400rem;
+        width: 60px;
+    }
+    .buttonsubmit{
+        display: flex;
+        
+        align-items: center;
+        font-size: 0.400rem;
+        align-items: center;
+        width: 20;
+        height: 1.8rem;
+    }
+    .simbolplus {
+        width: 0.5rem;
+        height:  auto;
+        padding-left: 0.10rem;
+      
+    }
+    .textplace {
+        padding: 0px 10px;
+     }
+     
+
+}
+
+
+
+
+
+
+
+
+.statustotal {
+    max-width: 46rem;
+    margin: 0 auto;
+    
+}
+
+.statustasks {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+    margin-top: 5.5rem;
+    text-align: center; 
+    
+}
+
+.taskscreate {
+    color: var(--blue-100);
+    font-weight: bold;
+    font-size: 0.875rem;
+}
+
+.tasksdone {
+    display: flex;
+    color: var(--purple-100);
+    font-weight: bold;
+    font-size: 0.875rem;
+}
+
+.number {
+    font-weight: bold;
+    font-size: 0.875rem;
+    background-color: var(--gray-400);
+    color: var(--gray-100);
+    margin-left: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    border-radius: 0.56rem;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 800px) {
+    .statustotal {
+        max-width: 30rem;
+        margin: 0 auto;
+        
+        padding-bottom: 0px;   
+    }
+    
+}
+
+
+@media (max-width: 600px) {
+    .statustotal {
+        max-width: 15rem;
+        padding-bottom: 0px;
+    }
+    .taskscreate {
+        font-size: 0.600rem;
+    }
+    
+    .tasksdone {
+        font-size: 0.600rem;
+    }
+    .number {
+
+        font-size: 0.500rem;
+        margin-left: 0.2rem;
+        padding: 0.2rem 0.2rem;
+        border-radius: 0.56rem;
+    }
+    .statustasks {
+        margin-top: 2rem;
+    }
+}
+
+
+@media (max-width: 280px) {
+    .statustotal {
+        max-width: 7.5rem;
+        padding-bottom: 0px;
+    }
+    .taskscreate, .tasksdone {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        font-size: 0.400rem;
+    }
+    
+    .number {
+        font-size: 0.400rem;
+        margin-left: 0.2rem;
+        padding: 0.1rem 0.1rem;
+        border-radius: 0.56rem;
+        margin-bottom: 2px;
+        
+    }
+    .statustasks {
+        margin-top: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

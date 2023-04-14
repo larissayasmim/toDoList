@@ -1,0 +1,222 @@
+.task {
+    max-width: 46rem;
+    margin: 0 auto;
+    display: block;  
+}
+
+.taskblock {
+    display: flex;
+    flex: 1;
+    gap: 20px ;
+    width: auto;
+    height: auto;
+    align-items: start;
+    background: var(--gray-500);
+    padding: 1.6rem;
+    border-radius: 1rem;
+    border: 2.2px solid var(--gray-400);
+    
+}
+
+.task + .task {
+    margin-top: 20px;
+}
+
+.taskblock:first-child {
+    margin-top: 30px;
+}
+
+.taskblock:last-child {
+    margin-bottom: 30px;
+}
+
+
+.buttonconfer {
+    border: 2.2px solid var(--blue-100);
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+    background: transparent;   
+    display: flex;
+}
+
+/* .buttonconfer:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 2px var(--blue-100);
+} */
+
+.texttrash {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+  
+}
+
+.texttrash p {
+    font-size:  1rem;
+    padding-right: 6px;
+}
+
+
+.texttrash p:hover {
+    cursor: pointer;
+}
+
+.tasktodo{
+    
+    width: auto;
+    flex-wrap: wrap;
+}
+
+
+
+.simboldelete {
+    display: flex;
+    padding: 2px;
+}
+
+
+
+.buttonconfer:hover {
+    cursor: pointer;
+    background-color: rgb(30, 111, 159, 0.2);
+}
+
+.simboldelete:hover {
+    cursor: pointer;
+    color: var(--red);
+    background: var(--gray-400);
+    border-radius: 4px;  
+}
+
+
+.tasktododone {
+    text-decoration: line-through;
+    color: var(--gray-200);
+}  
+
+ .buttonconferchecked {
+    display: flex;
+    background: url(../assets/Vector.svg) , var(--purple-200);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 2.2px solid var(--purple-200);
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+      
+} 
+.buttonconferchecked:focus {
+    outline: transparent;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+    .task {
+        max-width: 30rem;
+        margin: 0 auto; 
+    }
+    .tasktodo {
+        font-size: 0.800rem;
+    }
+    .taskblock {
+        padding: 1.2rem;
+    }
+    
+    .simboldelete {
+        height: 20px;
+        width: auto;
+    }
+    .buttonconfer {
+        height: 0.9rem;
+        width: 0.9rem;   
+    }
+}
+
+
+
+@media (max-width: 600px) {
+    .task {
+        max-width: 15rem;
+        margin: 0 auto; 
+    }
+    .tasktodo {
+        font-size: 0.600rem;
+        
+       
+    }
+
+    .taskblock:first-child {
+        margin-top: 16px;
+    }
+    .taskblock {
+        padding: 0.5rem;
+        gap: 8px;
+    }
+    
+    .simboldelete {
+        height: 15px;
+        width: auto;
+    }
+    .buttonconfer {
+        height: 0.6rem;
+        width: 0.6rem;   
+    }
+    .texttrash p {
+        font-size:  0.6rem;
+        padding-right: 1px;
+        line-height: 1.2;
+        height: auto;
+        width: auto;
+    }
+   
+}
+
+
+
+@media (max-width: 280px) {
+    .task {
+        max-width: 7.5rem;
+        margin: 0 auto; 
+    }
+    .tasktodo {
+        font-size: 0.400rem;
+        line-height: 0.1;
+       
+    }
+    .taskblock {
+        padding: 0.4rem;
+        gap: 4px;
+    }
+    
+    .simboldelete {
+        height: 12px;
+        width: auto;
+    }
+    .buttonconfer {
+        height: 0.6rem;
+        width: 0.6rem;   
+    }
+    .task + .task {
+        margin-top: 10px;
+    }
+    .texttrash p {
+        font-size:  0.5rem;
+        padding-right: 1px;
+        line-height: 1.2;
+        height: auto;
+        width: auto;
+    }
+    .taskblock:first-child {
+        margin-top: 10px;
+    }
+}
