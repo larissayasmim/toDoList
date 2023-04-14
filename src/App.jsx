@@ -61,7 +61,6 @@ export function App() {
   
 }
 
-
   function userNewTaskChange() {
     
     event.target.setCustomValidity('');
@@ -73,8 +72,6 @@ export function App() {
    
     event.target.setCustomValidity('Esse campo é obrigatório! Adicione uma nova tarefa.');
 }
- 
-
 
   function userMarkTaskAsComplete(id){
   const taskComplete = tasks.map(task => {
@@ -94,9 +91,6 @@ export function App() {
   useEffect (() => {
     localStorage.setItem('numberOfTasksComplete', JSON.stringify(numberOfTasksComplete))
   },[numberOfTasksComplete])
-
-
-
 
 
 return (
@@ -140,7 +134,7 @@ return (
         </div>            
       </div>
     </div>
-      
+
     <div>
       {
         tasks.map(task => {
@@ -155,7 +149,6 @@ return (
             userMarkTaskAsComplete={() => userMarkTaskAsComplete(task.id)}
             numberOfTasksComplete={numberOfTasksComplete}
             setNumberOfTasksComplete={setNumberOfTasksComplete}
-
           />
         )})
       }
