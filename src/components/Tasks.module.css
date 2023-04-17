@@ -151,8 +151,6 @@
     }
     .tasktodo {
         font-size: 0.600rem;
-        
-       
     }
 
     .taskblock:first-child {
@@ -169,7 +167,8 @@
     }
     .buttonconfer {
         height: 0.6rem;
-        width: 0.6rem;   
+        width: 0.6rem;
+        /* border: 1.8px solid var(--blue-100);    */
     }
     .texttrash p {
         font-size:  0.6rem;
