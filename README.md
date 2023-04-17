@@ -9,65 +9,66 @@
   
   <h5 align="center">Interface developed with ReactJS, JavaScript, HTML e CSS</h5>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=5E60CE">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=4EA8DE">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=5E60CE">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/toDoList?color=5E60CE">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/toDoList?color=4EA8DE">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/toDoList?color=5E60CE">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=4EA8DE">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/animais-fantasticos?color=5E60CE">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/toDoList?color=5E60CE">
 </p>
 <br>
 
-<h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666394248/bikraft/iconmonstr-marketing-4-240_3_t1cxqk.png"> &nbsp;Demonstration </h2>
-<p font-color="red">https://animais-fantasticosly.netlify.app/</p>
+<h2>  :arrow_forward:  &nbsp;Demonstration </h2>
+<p font-color="red">https://todolistly.netlify.app/</p>
 <br>
 
 ## :scroll:&nbsp;Features
-- Login
-- Accordion menu
-- Slide
-- Tooltip
+- Start without tasks
+- Create tasks
+- Mark as completed
+- Delete tasks
+- Celebrate when all tasks completed
 - Responsiveness
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Home 
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Start without tasks
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576416/animais_fant%C3%A1sticos/animais-fantasticospageall_rijfit.png"/>
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691004/todolist/todolistsemtasks_my66cd.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Login
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Create tasks
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576422/animais_fant%C3%A1sticos/animais-fantasticoslogin_oschwp.png"/>
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691009/todolist/todolistnovastarefas_fatyj4.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Accordion menu
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Mark as completed
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576430/animais_fant%C3%A1sticos/animais-fantasticosaccordionmenu_emoq4n.png"/>
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691012/todolist/todolist-tarefas_conclu%C3%ADdas_hgvgvl.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Slide
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Celebrate when all tasks completed
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588310/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Grava%C3%A7aotela_online-video-cutter.com_1_aatfbc.gif"/>
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691016/todolist/todolist-confetti_nmpdti.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Tooltip
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Create, complete, delete and celebrate
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588742/animais_fant%C3%A1sticos/Captura_de_tela_20221220_231049_lahrjr.png"/>
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681690937/todolist/v%C3%ADdeo_executandotodolist__online-video-cutter.com__h4dhzf.gif"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Responsiveness
 <p align="center">
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671589623/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Google_Chrome_2022-12-20_23-17-39_online-video-cutter.com_1_qiirtj.gif"/>
+<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691396/todolist/todolist-responsividade_gg6ako.gif"/>
 </p>
 
 <br>
@@ -75,16 +76,17 @@
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp; Technologies
 This project was developed with the following technologies:
 
+- React
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 - VSCode
 - Git
 
 <br>
 
 ## :page_with_curl: &nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/animais-fantasticos/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/toDoList/blob/main/LICENSE) for more information.
 
 <br>
 
