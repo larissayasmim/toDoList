@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img  height="auto" width="200px" alt="toDo Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691897/todolist/todo_1_memeh2.png"/>
+  <img  height="auto" width="100px" alt="toDo Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691897/todolist/todo_1_memeh2.png"/>
 </p>
 <br>
   <h2 align="center">
