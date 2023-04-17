@@ -9,7 +9,7 @@
   
   <h5 align="center">Interface developed with ReactJS, JavaScript, HTML e CSS</h5>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=purple">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=5E60CE">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=white">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=yellow">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=yellow">
