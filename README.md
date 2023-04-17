@@ -59,7 +59,7 @@
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create, complete, delete and celebrate
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create, conclude, delete and celebrate
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681690937/todolist/v%C3%ADdeo_executandotodolist__online-video-cutter.com__h4dhzf.gif"/>
 </p>
@@ -76,7 +76,7 @@
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp; Technologies
 This project was developed with the following technologies:
 
-- React
+- ReactJS
 - JavaScript
 - HTML
 - CSS
