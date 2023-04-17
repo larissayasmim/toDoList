@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img  height="auto" width="100px" alt="toDo Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691897/todolist/todo_1_memeh2.png"/>
+  <img  height="auto" width="200px" alt="toDo Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691897/todolist/todo_1_memeh2.png"/>
 </p>
 <br>
   <h2 align="center">
@@ -9,7 +9,7 @@
   
   <h5 align="center">Interface developed with ReactJS, JavaScript, HTML e CSS</h5>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=yellow">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=purple">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=white">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=yellow">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=yellow">
