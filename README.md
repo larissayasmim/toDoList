@@ -45,7 +45,7 @@
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Mark as completed
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Mark as done
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691012/todolist/todolist-tarefas_conclu%C3%ADdas_hgvgvl.png"/>
 </p>
