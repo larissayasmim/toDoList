@@ -10,10 +10,10 @@
   <h5 align="center">Interface developed with ReactJS, JavaScript, HTML e CSS</h5>
   <p align="center">
   <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=5E60CE">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=white">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=yellow">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=yellow">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/animais-fantasticos?color=white">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=4EA8DE">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=5E60CE">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=4EA8DE">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/animais-fantasticos?color=5E60CE">
 </p>
 <br>
 
