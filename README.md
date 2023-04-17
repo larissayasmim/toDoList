@@ -17,11 +17,11 @@
 </p>
 <br>
 
-<h2>  :arrow_forward:  &nbsp;Demonstration </h2>
+## <img alt="Símbolo play" width="26" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681736364/todolist/play_lptggi.png"> &nbsp;Demonstration
 <p font-color="red">https://todolistly.netlify.app/</p>
 <br>
 
-## :scroll:&nbsp;Features
+## <img alt="Símbolo scroll" width="26" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681739570/todolist/scroll_op9o3h.png"> &nbsp;Features
 - Start without tasks
 - Create tasks
 - Mark as completed
@@ -31,49 +31,49 @@
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Start without tasks
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Start without tasks
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693996/todolist/todosemtarefasacorreta_yv8e60.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Create tasks
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create tasks
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691009/todolist/todolistnovastarefas_fatyj4.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Mark as done
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Mark as done
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691012/todolist/todolist-tarefas_conclu%C3%ADdas_hgvgvl.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Celebrate when all tasks completed
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Celebrate when all tasks completed
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691016/todolist/todolist-confetti_nmpdti.png"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create, conclude, delete and celebrate
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create, conclude, delete and celebrate
 <p align="center">
 <img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681690937/todolist/v%C3%ADdeo_executandotodolist__online-video-cutter.com__h4dhzf.gif"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Responsiveness
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Responsiveness
 <p align="center">
 <img align="center" height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691396/todolist/todolist-responsividade_gg6ako.gif"/>
 </p>
 
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp; Technologies
+## <img alt="Símbolo check-fat" width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Technologies
 This project was developed with the following technologies:
 
 - ReactJS
