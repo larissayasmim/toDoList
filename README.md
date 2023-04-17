@@ -33,42 +33,42 @@
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Start without tasks
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691004/todolist/todolistsemtasks_my66cd.png"/>
+<img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693996/todolist/todosemtarefasacorreta_yv8e60.png"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Create tasks
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691009/todolist/todolistnovastarefas_fatyj4.png"/>
+<img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691009/todolist/todolistnovastarefas_fatyj4.png"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png">&nbsp;Mark as completed
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691012/todolist/todolist-tarefas_conclu%C3%ADdas_hgvgvl.png"/>
+<img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691012/todolist/todolist-tarefas_conclu%C3%ADdas_hgvgvl.png"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Celebrate when all tasks completed
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691016/todolist/todolist-confetti_nmpdti.png"/>
+<img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691016/todolist/todolist-confetti_nmpdti.png"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Create, complete, delete and celebrate
 <p align="center">
-<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681690937/todolist/v%C3%ADdeo_executandotodolist__online-video-cutter.com__h4dhzf.gif"/>
+<img height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681690937/todolist/v%C3%ADdeo_executandotodolist__online-video-cutter.com__h4dhzf.gif"/>
 </p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681693694/todolist/check-fat_fctjeg.png"> &nbsp;Responsiveness
 <p align="center">
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691396/todolist/todolist-responsividade_gg6ako.gif"/>
+<img align="center" height="auto" width="700" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681691396/todolist/todolist-responsividade_gg6ako.gif"/>
 </p>
 
 <br>
